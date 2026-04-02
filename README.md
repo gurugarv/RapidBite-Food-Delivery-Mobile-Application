@@ -72,3 +72,13 @@
    git clone https://github.com/garvsingh/rapidbite.git
    cd rapidbite
    flutter pub get
+
+SS:-
+![15](https://github.com/user-attachments/assets/1943a76d-d2ad-4bb1-bd32-f4a89fd4e233)
+![14](https://github.com/user-attachments/assets/01f10281-4e2f-4f2c-a0c1-3d3de04ecccd)
+![13](https://github.com/user-attachments/assets/876b794a-962a-4223-8f1c-31f9ccb4da68)
+![12](https://github.com/user-attachments/assets/2de6dabd-b710-4c92-bf3b-4789af9bd370)
+
+
+
+
